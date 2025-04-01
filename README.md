@@ -32,6 +32,6 @@ python3.11 local_cluster_s3_write.py
 ## Remote cluster execution
 Port forward
 ```
-
+kubectl port-forward ray-vllm-service-wrnx2-head 10001:10001 8265:8265
 ```
 

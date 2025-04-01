@@ -1,0 +1,6 @@
+{
+    "role_arn": "<ROLE>",
+    "role_session_name": "ray-session",
+    "default_s3_bucket": "sagemaker-poc-dev1",
+    "default_s3_prefix": "rishabh/"
+} 
